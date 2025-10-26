@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div
-      className="px-4 bg-purple-900 min-h-screen grid place-content-center
+      className="px-4 min-h-screen grid place-content-center
     bg-contain sm:bg-cover bg-center transition-all duration-500 ease-in-out"
       style={styles}
     >
